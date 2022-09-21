@@ -1,0 +1,114 @@
+[
+    {
+        "model":"mywatchlist.watchlistku",
+        "pk":1,
+        "fields":{
+            "watched":"Watched",
+            "title":"Pearl Harbor",
+            "rating": 4.5,
+            "release_date": "21 Mei 2001",
+            "review": "Seru Bangeettt"
+        }
+},
+{
+        "model":"mywatchlist.watchlistku",
+        "pk":2,
+        "fields":{
+            "watched":"Watched",
+            "title":"The Patriot",
+            "rating": 5,
+            "release_date": "27 Juni 2000",
+            "review": "Sedih T__T & Heartwarming"
+        }
+    },
+{
+        "model":"mywatchlist.watchlistku",
+        "pk":3,
+        "fields":{
+            "watched":"Watched",
+            "title":"Mission: Impossible - Fallout",
+            "rating": 4.5,
+            "release_date": "25 Juli 2018",
+            "review": "Chefs Kiss Hello Seru Banget"
+        }
+},
+    {
+        "model":"mywatchlist.watchlistku",
+        "pk":4,
+        "fields":{
+            "watched":"Not Watched",
+            "title":"Emergency Declaration",
+            "rating": 0,
+            "release_date": "16 Agustus 2022",
+            "review": "None"
+    }
+},
+    {
+        "model":"mywatchlist.watchlistku",
+        "pk":5,
+        "fields":{
+            "watched":"Watched",
+            "title":"Jack Ryan: Shadow Recruit",
+            "rating": 5,
+            "release_date": "17 Januari 2014",
+            "review": "Seru & Ga Ngebosenin"
+    }
+},
+    {
+        "model":"mywatchlist.watchlistku",
+        "pk":6,
+        "fields":{
+            "watched":"Not Watched",
+            "title":"The Fall",
+            "rating": 0,
+            "release_date": "16 Agustus 2022",
+            "review": "None"
+    }
+},
+
+    {
+        "model":"mywatchlist.watchlistku",
+        "pk":7,
+        "fields":{
+            "watched":"Not Watched",
+            "title":"Olympus Has Fallen",
+            "rating": 5,
+            "release_date": "21 Maret 2013",
+            "review": "Seru BGT"
+    }
+},
+    {
+        "model":"mywatchlist.watchlistku",
+        "pk":8,
+        "fields":{
+            "watched":"Watched",
+            "title":"The Purge: Anarchy",
+            "rating": 4.5,
+            "release_date": "18 Juli 2014",
+            "review": "Seru"
+        }
+    },
+    {
+        "model":"mywatchlist.watchlistku",
+        "pk":9,
+        "fields":{
+            "watched":"Not Watched",
+            "title":"Teka-Teki Tika",
+            "rating": 0,
+            "release_date": "23 Desember 2021",
+            "review": "None"
+            }
+    },
+    {
+        "model":"mywatchlist.watchlistku",
+        "pk":10,
+        "fields":{
+            "watched":"Watched",
+            "title":"Tenggelamnya Kapal Van der Wijck",
+            "rating": 4,
+            "release_date": "19 Desember 2013",
+            "review": "Sedih .."
+        }
+    }
+]
+    
