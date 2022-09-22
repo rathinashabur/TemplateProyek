@@ -32,3 +32,8 @@ yang mengembalikan return HttpResponse yang berisi parameter data hasil query ya
 import untuk render, WatchlistKu, HttpResponse, dan juga serializers. Lalu saya melakukan import show_xml dan show_json pada urls.py pada folder mywatchlist serta menambahkan 
 path untuk xml dan json pada urlpatterns agar dapat mengakses fungsi yang sebelumnya sudah diimpor.
 9. Menjalankan aplikasi mywatchlist dengan perintah python3 manage.py runserver.
+
+# Mengakses tiga URL di poin 6 menggunakan Postman, menangkap screenshot, dan menambahkannya ke dalam README.md
+html: ![html](/html.png)
+xml: ![xml](/xml.png)
+json: ![json](/json.png)
