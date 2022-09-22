@@ -1,3 +1,9 @@
+# Link Heroku:
+# https://hihihuhu.herokuapp.com/mywatchlist/html/
+# https://hihihuhu.herokuapp.com/mywatchlist/xml/
+# https://hihihuhu.herokuapp.com/mywatchlist/json/
+
+
 # 1. Jelaskan perbedaan antara JSON, XML, dan HTML!
 HTML: ekstensinya adalah .html, mengirim data melalui form, syntaxnya menggunakan tanda tag, tidak case sensitive, tag pada HTML digunakan untuk menampilkan data, bersifat statis, 
 merupakan Hyper Text Markup Language, support array, tidak membutuhkan end tags
