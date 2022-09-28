@@ -8,7 +8,6 @@ from django.contrib.auth import logout
 from django.contrib.auth.decorators import login_required
 from .forms import Create_Task
 import datetime
-import datetime
 from django.http import HttpResponseRedirect
 from django.urls import reverse
 
