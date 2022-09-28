@@ -18,3 +18,10 @@ def show_xml(request):
 def show_json(request):
     data = WatchlistKu.objects.all()
     return HttpResponse(serializers.serialize("json", data), content_type="application/json")
+
+def not_watched(request):
+    notwatched = WatchlistKu.objects.filter(watched = "Not Watched")
+    context = {
+        'data_watchlist': notwatched,
+    }
+    return render(request, "mywatchlist.html", context)
