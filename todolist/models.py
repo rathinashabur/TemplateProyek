@@ -9,6 +9,6 @@ class Task(models.Model):
                 models.SET_NULL,
                 blank=True,
                 null=True)
-    date = models.DateField()
+    date_task= models.DateField()
     title = models.CharField(max_length=100)
     description = models.TextField()
