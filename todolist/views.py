@@ -63,7 +63,7 @@ def create_task(request):
         if form.is_valid():
             new_task = form.save(commit=False)
             new_task.user = request.user
-            new_task.date = str(datetime.date.today())
+            new_task.date = (datetime.date.today())
             new_task.save()
             messages.success(request, 'Task berhasil ditambahkan!')
             return redirect('todolist:show_todolist')
