@@ -1,3 +1,9 @@
+# https://tugasrathina.herokuapp.com/todolist/register/
+# https://tugasrathina.herokuapp.com/todolist/login/
+# https://tugasrathina.herokuapp.com/todolist/logout/
+# https://tugasrathina.herokuapp.com/todolist/create-task/
+# https://tugasrathina.herokuapp.com/todolist
+
 # 1. Apa kegunaan {% csrf_token %} pada elemen <form>? 
 #    Apa yang terjadi apabila tidak ada potongan kode tersebut pada elemen <form>?
 {% csrf_token %} adalah perintah yang digunakan untuk men-generate token secara random setiap kali halaman form muncul. 
