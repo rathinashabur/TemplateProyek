@@ -1,8 +1,8 @@
-# https://tugasrathina.herokuapp.com/todolist/register/
-# https://tugasrathina.herokuapp.com/todolist/login/
-# https://tugasrathina.herokuapp.com/todolist/logout/
-# https://tugasrathina.herokuapp.com/todolist/create-task/
-# https://tugasrathina.herokuapp.com/todolist
+# https://nashatugaspbp.herokuapp.com/todolist/register/
+# https://nashatugaspbp.herokuapp.com/todolist/login/
+# https://nashatugaspbp.herokuapp.com/todolist/logout/
+# https://nashatugaspbp.herokuapp.com/todolist/create-task/
+# https://nashatugaspbp.herokuapp.com/todolist
 
 # 1. Apa kegunaan {% csrf_token %} pada elemen <form>? 
 #    Apa yang terjadi apabila tidak ada potongan kode tersebut pada elemen <form>?
