@@ -1,3 +1,10 @@
+# https://nashatugaspbp.herokuapp.com/todolist/
+# https://nashatugaspbp.herokuapp.com/todolist/login/
+# https://nashatugaspbp.herokuapp.com/todolist/create-task/
+# https://nashatugaspbp.herokuapp.com/todolist/register/
+
+
+
 # 1. Apa perbedaan dari Inline, Internal, dan External CSS? Apa saja kelebihan dan kekurangan dari masing-masing style?
 Pada inline style, properti CSS ada pada bagian body dengan elemennya. Pada Internal style. Penulisan tipe ini ada di dalam tag HTML dengan atribut style. Pada internal CSS, rule set berada di berkas HTML dan di dalam section head (CSS disematkan pada berkas HTML). Pada external CSS, berkas CSS terpisah dari berkas HTML di mana berkas tersebut hanya memuat style property dengan bantuan tag attributes. Berkas CSS memiliki ekstensi .css dan harus dihubungkan dengan dokumen HTML-nya dengan menggunakan link tag. Style dengan tipe ini hanya bisa di-set sekali dan akan diaplikasikan pada halaman web.
 
